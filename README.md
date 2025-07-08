@@ -3,8 +3,8 @@
 This project implements a Convolutional Neural Network (CNN) using PyTorch to classify images of cats and dogs. The dataset was sourced from Kaggle, and the pipeline includes custom preprocessing, grayscale conversion, and image standardization — followed by model training and evaluation.
 
 ## 📦 Dataset
-The dataset can be found on Kaggle: [(Cats-vs-Dogs)](https://www.kaggle.com/datasets/shaunthesheep/microsoft-catsvsdogs-dataset)
-Contains labeled images of cats and dogs.
+The dataset can be found on Kaggle: [(Cats-vs-Dogs)](https://www.kaggle.com/datasets/shaunthesheep/microsoft-catsvsdogs-dataset) \
+Contains labeled images of cats and dogs. \
 Originally in color (RGB) with varying resolutions.
 
 ## 🧹 Data Processing Pipeline
